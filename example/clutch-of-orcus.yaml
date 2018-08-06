@@ -1,0 +1,17 @@
+name: Clutch of Orcus
+level: 3
+school: Necromancy
+markers:
+  - Evil
+components:
+  - Verbal
+  - Somatic
+materials:
+castingTime: 1 standard action
+range: 100ft + 10ft/level)
+target: One humanoid
+duration: Concentration, 1 round/level
+save: Fortitude negates, once per round
+bookRef: Spell Compendium p. 49
+description: |
+  This is a spell
